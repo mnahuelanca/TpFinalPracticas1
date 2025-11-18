@@ -1,4 +1,4 @@
-## Trabajo practico final "Practicas profesionalizastes I"
+## Trabajo practico final "Practicas profesionalizantes I"
 
 
 ## Descripción del Proyecto
