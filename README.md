@@ -75,11 +75,10 @@ Para replicar este análisis:
 
 ---
 
-## 📂 Estructura del Repositorio
+## Estructura del Repositorio
 ```text
 ├── data/                # Dataset original y procesado
 ├── notebooks/           # Jupyter Notebooks (EDA y Modelado)
-├── src/                 # Scripts de soporte (opcional)
 ├── .gitignore           # Archivos ignorados
 ├── README.md            # Documentación del proyecto
 └── requirements.txt     # Librerías necesarias
