@@ -1,0 +1,13 @@
+# Bibliotecas esenciales para manejo de datos (HU-02)
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Biblioteca central para Machine Learning (HU-04, HU-05, HU-06)
+scikit-learn>=1.2.0
+
+# Visualización para el Análisis Exploratorio (EDA - HU-03)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Entorno de ejecución (para notebooks)
+jupyter>=1.0.0
