@@ -19,6 +19,7 @@ Este proyecto fue ejecutado simulando los siguientes roles dentro de un equipo �
 | **Product Owner** | Definición de alcance, gestión del backlog y supervisión ética. |
 | **Data Analyst** | Análisis Exploratorio (EDA), calidad de datos y limpieza. |
 | **Data Scientist** | Preprocesamiento, entrenamiento del modelo y validación de métricas. |
+| **Developer** | Implementación, estabilidad del sistema y experiencia de usuario. |
 
 ---
 
@@ -35,7 +36,8 @@ El proyecto se gestionó mediante un **Sprint de 2 semanas**, siguiendo el sigui
 1.  **Planificación:** Definición de Historias de Usuario y Sprint Backlog.
 2.  **Análisis:** Carga de datos, EDA y limpieza (Rol: Data Analyst).
 3.  **Modelado:** Entrenamiento y evaluación (Rol: Data Scientist).
-4.  **Entrega:** Documentación y revisión ética (Rol: Product Owner).
+4.  **Desarrollo:** Plataforma de usuario y validacion del codigo (Rol: Developer).
+5.  **Entrega:** Documentación y revisión ética (Rol: Product Owner).
 
 ---
 
